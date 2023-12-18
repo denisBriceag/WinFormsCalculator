@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "26ZPUbBadlmhBJFxZp9rbOP25oYJEN6lrFdfx05ImL/Zfgg9I+tW+mprajxvxxcMsDf5jWYT8I2GC/5hsXrWEA==",
+  "dgSpecHash": "tS2QwhtAWwJwstMYvKisx8xvUsDglxsmsBRq50TbU0mv6DNLVr5R8mq/j6Pkp96CxbJJH/dpMVRMOZLAPbRnxg==",
   "success": true,
-  "projectFilePath": "E:\\ScientificCalculator\\ScientificCalculator\\ScientificCalculator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\anast\\OneDrive\\Documents\\usm\\c#\\WinFormsCalculator\\ScientificCalculator\\ScientificCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anast\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\anast\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\anast\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\anast\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
